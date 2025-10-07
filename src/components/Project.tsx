@@ -5,32 +5,32 @@ export function Projects() {
     { 
       title: "Dr. Revive", 
       desc: "Healthcare + AI Chatbot", 
-      img: "/src/dr-revive-healthcare.png" 
+      img: "/dr-revive-healthcare.png" 
     },
     { 
       title: "Dr. Revive 1.1", 
       desc: "Supplychain + AI", 
-    img: "/src/dr-revive-healthcare.png"  
+    img: "/dr-revive-healthcare.png"  
     },
     { 
       title: "Dr. Revive 1.2", 
       desc: "Finance + ML", 
-      img: "/src/dr-revive-healthcare.png"  
+      img: "/dr-revive-healthcare.png"  
     },
     { 
       title: "Dr. Revive 1.4", 
       desc: "E-Commerce + AI", 
-      img: "/src/dr-revive-healthcare.png" 
+      img: "/dr-revive-healthcare.png" 
     },
     { 
       title: "Dr. Revive 1.5", 
       desc: "E-commerce web app", 
-    img: "/src/dr-revive-healthcare.png" 
+    img: "/dr-revive-healthcare.png" 
     },
     { 
       title: "Dr. Revive 1.6", 
       desc: "ML model for sugar level", 
-      img: "/src/dr-revive-healthcare.png" 
+      img: "/dr-revive-healthcare.png" 
     },
   ];
 
