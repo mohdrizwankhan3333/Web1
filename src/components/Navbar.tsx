@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ThemeToggle } from "./ThemeToggle";
 
-export function Navbar() {
+export default  function Navbar() {
   return (
     <nav className="flex justify-between items-center p-4 shadow-lg sticky top-0 bg-gray-100 z-50 ">
     <h1 className="text-xl font-bold  dark:hover:text-white transform transition duration-300 hover:scale-115 ">

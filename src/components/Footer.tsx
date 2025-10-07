@@ -6,7 +6,10 @@ export function Footer() {
     <footer className="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200 py-8 mt-10">
       <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4">
         {/* Logo / Name */}
-        <h3 className="text-xl font-bold">Mohd Rizwan Khan</h3>
+<h3 className="text-xl font-bold transform transition duration-300 hover:scale-110">
+  Mohd Rizwan Khan
+</h3>
+
 
         {/* Social Links */}
         <div className="flex gap-4">
