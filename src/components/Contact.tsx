@@ -12,7 +12,7 @@ export function Contact() {
         <Input placeholder="Your Name" required />
         <Input placeholder="Your Email" required />
         <Input placeholder="Your Message" required />
-        <Button type="submit">Send Message</Button>
+        <Button type="submit" className="transform transition-transform duration-300 hover:scale-101 hover:shadow-md">Send Message</Button>
       </form>
     </section>
   );

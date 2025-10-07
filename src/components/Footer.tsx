@@ -13,17 +13,17 @@ export function Footer() {
 
         {/* Social Links */}
         <div className="flex gap-4">
-          <Button variant="ghost" asChild>
+          <Button variant="ghost" asChild className="transform transition-transform duration-300 hover:scale-155">
             <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
               <Github className="w-5 h-5" />
             </a>
           </Button>
-          <Button variant="ghost" asChild>
+          <Button variant="ghost" asChild className="transform transition-transform duration-300 hover:scale-155">
             <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
               <Linkedin className="w-5 h-5" />
             </a>
           </Button>
-          <Button variant="ghost" asChild>
+          <Button variant="ghost" asChild className="transform transition-transform duration-300 hover:scale-155">
             <a href="mailto:your-email@example.com">
               <Mail className="w-5 h-5" />
             </a>
