@@ -6,7 +6,7 @@ export function Hero() {
     <section className="flex justify-center py-10">
       <div className="max-w-xl w-full bg-white dark:bg-gray-800 rounded-xl  p-4 text-center">
       <Avatar className="w-48 h-48 mx-auto mb-4 animate-scaleLoop">
-  <AvatarImage src="/src/assets/profile.webp" alt="Rizwan" />
+  <AvatarImage src="/src/profile.webp" alt="Rizwan" />
 </Avatar>
 
   <h2 className="text-3xl font-semibold mb-2">
